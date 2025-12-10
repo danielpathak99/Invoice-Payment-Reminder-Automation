@@ -1,0 +1,4 @@
+InvoiceID,ClientName,Amount,DueDate,Status
+1,ABC Logistics,5000,2025-01-10,Pending
+2,XYZ Traders,7500,2025-01-05,Paid
+3,PQR Transport,6000,2024-12-30,Pending
